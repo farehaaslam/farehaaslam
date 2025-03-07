@@ -2,6 +2,7 @@
 <hr>
 # 💫 About Me:
 🎓 2nd Year CSE Student @ Jamia Millia Islamia<br> 💡 Passionate about Tech, Finance & Blockchain <br>💻 Exploring Full-Stack Development & web3 <br>📚 Learning DSA(C++)
+<br> [Leetcode](https://leetcode.com/u/fareha_aslam/) <br> [Geek for Geeks](https://www.geeksforgeeks.org/user/farehaayfnw/)
 
 
 ## 🌐 Socials:
