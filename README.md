@@ -2,8 +2,7 @@
 <hr>
 # 💫 About Me:
 🎓 2nd Year CSE Student @ Jamia Millia Islamia<br> 💡 Passionate about Tech, Finance & Blockchain <br>💻 Exploring Full-Stack Development & web3 <br>📚 Learning DSA(C++)
-<br> [Leetcode](https://leetcode.com/u/fareha_aslam/) <br> [Geek for Geeks](https://www.geeksforgeeks.org/user/farehaayfnw/)
-
+<br>Leetcode: [Fareha Aslam](https://leetcode.com/u/fareha_aslam/) <br>Geek for Geeks: [Profile](https://www.geeksforgeeks.org/user/farehaayfnw/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fareha-aslam) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/fareha-aslam) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aslam_fareha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:farehaaslam57@gmail.com) 
