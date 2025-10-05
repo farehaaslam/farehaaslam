@@ -1,7 +1,11 @@
 # Hii I'm Fareha Aslam
 <hr>
 # 💫 About Me:
-🎓 3rd Year CSE Student @ Jamia Millia Islamia<br> 💡 Passionate about Tech and data science   <br>📚 Learning DSA(C++)
+ 3rd Year CSE Student
+ Full stack development 
+ Genrative AI
+ Machine Learning
+ DSA 
 <br>Leetcode: [Fareha Aslam](https://leetcode.com/u/fareha_aslam/) <br>Geek for Geeks: [Profile](https://www.geeksforgeeks.org/user/farehaayfnw/)
 
 ## 🌐 Socials:
