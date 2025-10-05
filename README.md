@@ -1,11 +1,11 @@
 # Hii I'm Fareha Aslam
 <hr>
-# 💫 About Me:
- 3rd Year CSE Student
- Full stack development 
- Genrative AI
- Machine Learning
- DSA 
+## 💫 About Me:
+ <br> 3rd Year CSE Student
+ <br> Full stack development 
+ <br> Genrative AI
+ <br> Machine Learning
+ <br> DSA 
 <br>Leetcode: [Fareha Aslam](https://leetcode.com/u/fareha_aslam/) <br>Geek for Geeks: [Profile](https://www.geeksforgeeks.org/user/farehaayfnw/)
 
 ## 🌐 Socials:
