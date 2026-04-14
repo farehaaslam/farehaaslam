@@ -1,44 +1,42 @@
-# Hii I'm Fareha Aslam
-<hr>
-## 💫 About Me:
- <br> 3rd Year CSE Student
- <br> Full stack development 
- <br> Genrative AI
- <br> Machine Learning
- <br> DSA 
-<br>Leetcode: [Fareha Aslam](https://leetcode.com/u/fareha_aslam/) <br>Geek for Geeks: [Profile](https://www.geeksforgeeks.org/user/farehaayfnw/)
+<h1 align="center">Hi 👋, I'm Fareha Aslam</h1>
+<h3 align="center">3rd year computer engineering student . I Do Deep learning and DSA</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fareha-aslam) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/fareha-aslam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:farehaaslam57@gmail.com) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=farehaaslam&label=Profile%20views&color=0e75b6&style=flat" alt="farehaaslam" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farehaaslam" alt="farehaaslam" /></a> </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=farehaaslam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=farehaaslam&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=farehaaslam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="left"> <a href="https://twitter.com/as_farrr" target="blank"><img src="https://img.shields.io/twitter/follow/as_farrr?logo=twitter&style=for-the-badge" alt="as_farrr" /></a> </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=farehaaslam&theme=blueberry&no-frame=true&no-bg=false&margin-w=4)
+- 🌱 I’m currently learning **transformers and MLOPS**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=farehaaslam&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 👯 I’m looking to collaborate on **open source projects**
 
----
-[![](https://visitcount.itsvg.in/api?id=farehaaslam&icon=0&color=10)](https://visitcount.itsvg.in)
+- 💬 Ask me about **ML stuff and dsa**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 📫 How to reach me **fareha.codes@gmail.com**
 
-<!--
-**farehaaslam/farehaaslam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📄 Know about my experiences [https://drive.google.com/file/d/19nUDCVs5njAizBsmJ9LLJSGdsKeswz5j/view?usp=drive_link](https://drive.google.com/file/d/19nUDCVs5njAizBsmJ9LLJSGdsKeswz5j/view?usp=drive_link)
 
-Here are some ideas to get you started:
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/as_farrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="as_farrr" height="30" width="40" /></a>
+<a href="https://kaggle.com/farehaaslam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="farehaaslam" height="30" width="40" /></a>
+<a href="https://medium.com/@farehaaslam25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@farehaaslam25" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/fine_olive_02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="fine_olive_02" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/farehaaslam25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="farehaaslam25" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/fareha_aslam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fareha_aslam" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/farehaayfnw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="farehaayfnw" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farehaaslam&show_icons=true&locale=en&layout=compact" alt="farehaaslam" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farehaaslam&show_icons=true&locale=en" alt="farehaaslam" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farehaaslam&" alt="farehaaslam" /></p>
