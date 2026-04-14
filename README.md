@@ -19,6 +19,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Fully Local Voice AI Agent &lpar;No APIs, No Cloud&rpar;](https://medium.com/@farehaaslam25/building-a-fully-local-voice-ai-agent-no-apis-no-cloud-d65639f671ee?source=rss-da5443b7a202------2)
+- [Memory in AI Agents and Assistance](https://medium.com/@farehaaslam25/memory-in-ai-agents-and-assistance-586350d6507d?source=rss-da5443b7a202------2)
+- [Rag introduction](https://medium.com/@farehaaslam25/rag-introduction-4ba89f2df8b1?source=rss-da5443b7a202------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
