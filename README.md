@@ -14,6 +14,8 @@
 - 💬 Ask me about **ML stuff and dsa**
 
 - 📫 How to reach me **fareha.codes@gmail.com**
+  
+- 🔗 portfolio website [fareha.dev](https://www.fareha.dev/)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/19nUDCVs5njAizBsmJ9LLJSGdsKeswz5j/view?usp=drive_link](https://drive.google.com/file/d/19nUDCVs5njAizBsmJ9LLJSGdsKeswz5j/view?usp=drive_link)
 
@@ -40,7 +42,3 @@
 
 
 
-# Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
