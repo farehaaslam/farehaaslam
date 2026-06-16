@@ -21,6 +21,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How switching to llama.cpp made captioning 2-4X faster](https://medium.com/@farehaaslam25/how-switching-to-llama-cpp-made-captioning-2-4x-faster-52620c8d7fe5?source=rss-da5443b7a202------2)
 - [Building a Fully Local Voice AI Agent &lpar;No APIs, No Cloud&rpar;](https://medium.com/@farehaaslam25/building-a-fully-local-voice-ai-agent-no-apis-no-cloud-d65639f671ee?source=rss-da5443b7a202------2)
 - [Memory in AI Agents and Assistance](https://medium.com/@farehaaslam25/memory-in-ai-agents-and-assistance-586350d6507d?source=rss-da5443b7a202------2)
 - [Rag introduction](https://medium.com/@farehaaslam25/rag-introduction-4ba89f2df8b1?source=rss-da5443b7a202------2)
